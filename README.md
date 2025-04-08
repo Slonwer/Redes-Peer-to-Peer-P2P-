@@ -7,7 +7,7 @@ REPOSITORIO PARA TESTE DE REDE DE IP PARA OUTRA MAQUINA
 Este projeto automatiza a coleta de informações de rede em sistemas Windows e gera um relatório completo em formato `.txt` e `.pdf`, ideal para estudos, análises técnicas ou trabalhos acadêmicos.
 
 ## 📂 Estrutura do Projeto
-
+Redes-Peer-to-Peer-P2P/ │ ├── info-ip.ps1 # Script PowerShell para coletar IP, Gateway e Máscara ├── converter-pdf.ps1 # Script que converte o relatório gerado para PDF via Microsoft Word ├── relatorio_rede.txt # Arquivo de relatório gerado automaticamente ├── relatorio_rede.pdf # Versão PDF do relatório ├── README.md # Este arquivo de documentação └── SH/ # (Opcional) Scripts adicionais
 
 ---
 
